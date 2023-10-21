@@ -36,6 +36,7 @@ body {
     grid-template-columns: 370px 370px;
     background-color: var(--white-color);
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 20px;
 }
 
 .result-panel {
@@ -101,7 +102,7 @@ p span {
     text-align: left;
     padding: 10%;
     background-color: var(--white-color);
-    
+    border-radius: 20px;
 }
 
 .sum-h {
